@@ -1,0 +1,15 @@
+# Basic gitignore template for Hugo
+#
+# This is a template .gitignore file for git-managed Hugo projects.
+#
+# Fact: you don't want Hugo core files, or your server-specific
+# configuration files etc., in your project's repository. You just don't.
+
+
+#Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+#OS
+.DS_Store
