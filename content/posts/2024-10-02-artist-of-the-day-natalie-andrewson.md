@@ -1,6 +1,6 @@
 
 ---
-title: Artist Of The Day: Natalie Andrewson
+title: Artist Of The Day - Natalie Andrewson
 date: 2024-10-02T02:27:29+05:30
 author: edc0
 avatar: /me/edc0.jpg
