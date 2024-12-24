@@ -1,6 +1,6 @@
 
 ---
-title:   | Color Palette
+title: Color Palette
 date: 2024-12-24T21:33:31+05:30
 author: edc0
 avatar: /me/edc0.jpg
@@ -17,6 +17,6 @@ weight: 1
 
 <!--more-->
 
-[  | Color Palette](https://in.pinterest.com/pin/91901648639994864/)
+[ColorPalette](https://in.pinterest.com/pin/91901648639994864/)
 
 	
