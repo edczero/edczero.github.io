@@ -1,6 +1,6 @@
 
 ---
-title: @Sakpalashutosh #Ideogram
+title: Sakpalashutosh
 date: 2025-02-16T23:57:49+05:30
 author: edc0
 avatar: /me/edc0.jpg
@@ -17,6 +17,6 @@ weight: 1
 
 <!--more-->
 
-[@Sakpalashutosh #Ideogram](https://in.pinterest.com/pin/91901648640161029/)
+[Sakpalashutosh](https://in.pinterest.com/pin/91901648640161029/)
 
 	
